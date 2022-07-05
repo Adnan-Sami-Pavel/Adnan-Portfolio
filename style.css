@@ -31,3 +31,16 @@ section{
     background-image: url(top-banner.png);
     background-repeat: no-repeat;
 }
+.mid{
+    background-image: url(dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: 100% 0;
+}
+.link{
+    background-image: linear-gradient(orange, tomato);
+    text-decoration: none;
+    padding: 10px 40px;
+    border-radius: 5px;
+    font-weight: 700;
+    color: white;
+}
